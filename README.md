@@ -4,14 +4,14 @@
 <br>
 Alunos:
 <br>
-<li>
-  <ul>
+<ul>
+  <li>
     Victor Emanuel Alves dos Santos - 417395
-  </ul>
-  <ul>
+  </li>
+  <li>
     Teodoro Raulino Lima Neto - 429884
-  </ul>
-  <ul>
+  </li>
+  <li>
     John Vasconcelos dos Santos - 414953
-  </ul>
-</li>
+  </li>
+</ul>
