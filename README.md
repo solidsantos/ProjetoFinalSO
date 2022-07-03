@@ -6,16 +6,15 @@ Alunos:
 <br>
 <ul>
   <li>
-    Victor Emanuel Alves dos Santos - 417395
+    Victor Emanuel Alves dos Santos 
   </li>
   <li>
-    Teodoro Raulino Lima Neto - 429884
+    Teodoro Raulino Lima Neto 
   </li>
   <li>
-    John Vasconcelos dos Santos - 414953
+    John Vasconcelos dos Santos 
   </li>
   <li>
-    João Victor Leandro Nunes - 414957
+    João Victor Leandro Nunes 
   </li>
 </ul>
-Teste
